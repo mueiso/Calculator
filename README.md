@@ -16,6 +16,8 @@
 
 7. 원하면 추가 연산 하기 / 원하지 않으면 exit 입력으로 프로그램 종료
 
+![image](https://github.com/user-attachments/assets/3c65c00f-961b-4003-97f5-1b5cc1c056dc)
+
 -----
 
 **요구사항 체크리스트 ⬜✅ 에 따른 코딩 과정 :**
